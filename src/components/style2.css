@@ -1,0 +1,73 @@
+.container {
+  margin: 2px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  height: 97%;
+  width: 97%;
+  /* background-color: blue; */
+}
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 90%;
+  /* background-color: blue; */
+}
+
+.chart-container {
+  width: 90%;
+  height: 90%;
+}
+
+.cryptoHeader {
+  /* border: 2px solid black; */
+  height: 65px;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+}
+.crypto {
+  /* background-color: pink; */
+  height: 100%;
+  width: 40%;
+}
+
+.crypto p {
+  float: left;
+  margin: 13px 0px 13px 15px;
+
+  font-family: Poppins;
+  font-size: 25px;
+  color: #5843be;
+}
+
+.bitcoin {
+  width: 15%;
+  float: left;
+}
+.commodity {
+  height: 100%;
+  width: 55%;
+  /* border: 2px solid pink; */
+  /* display: flex;
+  align-items: center; */
+  /* float: right; */
+}
+
+.commoditybox {
+  margin: 15px;
+  width: 40%;
+  height: 50%;
+  float: right;
+  font-family: Poppins;
+  background-color: #5843be;
+  color: white;
+  padding-left: 10%;
+  border-radius: 7px;
+}
+
+.tempmsg {
+  margin: 10%;
+  color: #5843be;
+}
