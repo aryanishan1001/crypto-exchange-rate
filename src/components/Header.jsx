@@ -28,7 +28,7 @@ function Header() {
 
       <div className="Lastbox">
         <img src="./images/bell.png" alt="notif" className="notif"></img>
-        <img src="./images/women.jpg" alt="profile" className="profile"></img>
+        <img src="./images/dp.png" alt="profile" className="profile"></img>
         <p>&#9660;</p>
       </div>
 
