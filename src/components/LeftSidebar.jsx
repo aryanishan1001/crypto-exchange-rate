@@ -29,7 +29,7 @@ function LeftSidebar() {
       <div className="List">
         <ul className="ListUnordered">
           <li>
-            <ListItems imgurl="./images/Dashboard.png" name="dashboard" />
+            <ListItems imgurl="./images/dashboard.png" name="Dashboard" />
           </li>
           <li>
             <ListItems
